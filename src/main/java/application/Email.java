@@ -8,8 +8,6 @@ import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Set;
 
-// Builds a mailto: link with the shopping list prefilled as the email body,
-// and opens it in the user's default mail client via Desktop.mail().
 public class Email {
 
     public URI buildMailto(Application app) {

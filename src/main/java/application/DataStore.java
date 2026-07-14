@@ -3,8 +3,6 @@ package application;
 import java.io.*;
 import java.util.ArrayList;
 
-// Persists the shopping list as one line per item: name|price|crossed
-// First line of the file is the spending limit.
 public class DataStore {
     private final File file;
 

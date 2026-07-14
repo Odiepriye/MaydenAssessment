@@ -1,5 +1,4 @@
-// No requirement to make  make Grocery a mutable object,
-// Name and price are set and unchangeable on creation.
+
 package application;
 
 import java.util.Objects;
