@@ -1,0 +1,5 @@
+target/
+jotting.md
+*.pdf
+*.txt
+.vscode/
